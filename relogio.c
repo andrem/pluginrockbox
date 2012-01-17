@@ -1,6 +1,6 @@
 /***************************************************************************
  *
- * $Id: horario.c 1 2008-02-09 10:36  andrem $
+ * $Id: relogio.c 1 2008-02-09 10:36  andrem $
  *
  * Andre O Moura andreoandre [ at ] gmail (dot) com
  * 
